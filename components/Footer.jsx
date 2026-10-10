@@ -17,7 +17,6 @@ export default function Footer() {
           <p>Guides, answers, and people for everything in the Fades ecosystem.</p>
           <div className="foot-social">
             <a href={LINKS.discord} aria-label="Discord"><Icon name="discord" size={18} /></a>
-            <a href={LINKS.github} aria-label="GitHub"><Icon name="github" size={18} /></a>
             <a href={LINKS.x} aria-label="X"><Icon name="x" size={18} /></a>
             <a href={LINKS.youtube} aria-label="YouTube"><Icon name="youtube" size={18} /></a>
             <a href={LINKS.email} aria-label="Email"><Icon name="mail" size={18} /></a>
