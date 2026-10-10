@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import "./support.css";
+import "./globals.css";
 
 const LOGO_SRC = "/logo.png";
 
